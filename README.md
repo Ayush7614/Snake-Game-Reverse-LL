@@ -1,6 +1,5 @@
 # Snake-Game-Reverse-LL
 
-# COVID-19 Tracker Application
 
 <p align="center">
   <a href="https://github.com/Ayush7614/Snake-Game-Reverse-LL">
@@ -9,8 +8,8 @@
   
   ## 📌 Introduction
   
-  This is a React.js Application which consumes a [COVID-19 Data API](https://github.com/mathdroid/covid-19-api) to provide real-time statistics and data insight about the COVID-19 Pandemic that is currently wreaking a havoc around the world. The primary purpose of the project was to create a statistical visualization for the data obtained from this API and allow the user to get real-time updates about the Pandemic situation.
-  
+This is Basically the snake game that we have made in python, C but in this game we have to use Linked List Data Structure The main aim of the Project is reversed a Linked List and in this application made from React Frontend Interface a frontend libraray
+
   ## 🏁 Technology Stack
 
 * [React](https://reactjs.org/)
