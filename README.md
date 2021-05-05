@@ -1,10 +1,7 @@
 # Snake-Game-Reverse-LL
 
 
-<p align="center">
-  <a href="https://github.com/Ayush7614/Snake-Game-Reverse-LL">
-    <img src="https://www.freepik.com/premium-vector/logo-illustration-snake-gradient-colorful-style_12743414.htm#page=1&query=snake%20logo&position=5" alt="Logo" width="150" height="120">
-  </a>
+![ Snake-Game-Reverse-LL](https://socialify.git.ci/Ayush7614/Snake-Game-Reverse-LL/image?forks=1&issues=1&language=1&owner=1&pattern=Brick%20Wall&pulls=1&stargazers=1&theme=Dark)
   
   ## 📌 Introduction
   
