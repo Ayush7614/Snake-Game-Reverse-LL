@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://github.com/Ayush7614/Snake-Game-Reverse-LL">
-    <img src="https://www.shutterstock.com/image-vector/snake-line-modern-abstract-creative-logo-1809088687" alt="Logo" width="150" height="120">
+    <img src="https://www.freepik.com/premium-vector/logo-illustration-snake-gradient-colorful-style_12743414.htm#page=1&query=snake%20logo&position=5" alt="Logo" width="150" height="120">
   </a>
   
   ## 📌 Introduction
